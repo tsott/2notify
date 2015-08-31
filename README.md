@@ -5,7 +5,7 @@ Package for automated notifications using email and facebook timeline.
 ##Installation
 To install the package use the command
 ```
-meteor add tsott:2Notify
+meteor add tsott:2notify
 ```
 ##Usage
 **2Notify** is a package that sends automatic email notifications and automaticaly posts to users' Facebook timeline. 
